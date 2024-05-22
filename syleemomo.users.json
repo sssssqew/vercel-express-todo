@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "663092089e2c816c901efdcc"
+  },
+  "name": "잘못된 사용자",
+  "email": "fault@gmail.com",
+  "userId": "fault",
+  "password": "yourdream1234@",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-04-30T06:39:04.546Z"
+  },
+  "lastModifiedAt": {
+    "$date": "2024-04-30T06:39:04.546Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6631f454d02fb2258f3ab068"
+  },
+  "name": "독수리",
+  "email": "doksuri@gmail.com",
+  "userId": "spongebob",
+  "password": "doksuri5@",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2024-05-01T07:50:44.989Z"
+  },
+  "lastModifiedAt": {
+    "$date": "2024-05-02T06:28:26.926Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6631f62057e8f27e59039492"
+  },
+  "name": "스펀지밥",
+  "email": "spiderman@gmail.com",
+  "userId": "spongebob",
+  "password": "1234567890@",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-05-01T07:58:24.119Z"
+  },
+  "lastModifiedAt": {
+    "$date": "2024-05-01T07:58:24.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6631f63d57e8f27e59039494"
+  },
+  "name": "아이언맨",
+  "email": "ironman@gmail.com",
+  "userId": "spongebob",
+  "password": "1234567890@",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-05-01T07:58:53.666Z"
+  },
+  "lastModifiedAt": {
+    "$date": "2024-05-01T07:58:53.666Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6631fcf9f2b62764dce2a969"
+  },
+  "name": "아이언맨",
+  "email": "ironman3@gmail.com",
+  "userId": "spongebob",
+  "password": "spongebob123^^",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-05-01T08:27:37.821Z"
+  },
+  "lastModifiedAt": {
+    "$date": "2024-05-01T08:27:37.821Z"
+  },
+  "__v": 0
+}]
